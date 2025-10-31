@@ -1,0 +1,4 @@
+project_id = "dbswrkococxfxjbkyiaz"
+
+[functions.process-study-material]
+verify_jwt = false
